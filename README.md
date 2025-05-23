@@ -12,6 +12,10 @@ A modern, multi-threaded file download manager built with Python and CustomTkint
 - **Real-time Progress** - Live download speed, ETA, and completion percentage
 - **File Management** - Smart save location handling with file browser integration
 - **Error Handling** - Graceful error management and user feedback
+- **HTTP range request detection**
+- **Server capability checking**
+- **Improved progress calculations**
+- **Better error recovery**
 
 ### 🔮 Upcoming Features
 - **Multi-threaded Segmented Downloads** - Split files into segments for faster downloads
@@ -23,10 +27,7 @@ A modern, multi-threaded file download manager built with Python and CustomTkint
 - **File Integrity Verification** - Hash checking for download safety
 - **File Integrity Verification** - Hash checking for download safety
 - **File Integrity Verification** - Hash checking for download safety
-- **HTTP range request detection**
-- **Server capability checking**
-- **Improved progress calculations**
-- **Better error recovery**
+
 
 ## 🚀 Quick Start
 
