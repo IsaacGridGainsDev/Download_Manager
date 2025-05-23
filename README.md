@@ -24,9 +24,6 @@ A modern, multi-threaded file download manager built with Python and CustomTkint
 - **Bandwidth Control** - Limit speed to prevent network congestion
 - **Resume Interrupted Downloads** - Continue where you left off
 - **File Integrity Verification** - Hash checking for download safety
-- **File Integrity Verification** - Hash checking for download safety
-- **File Integrity Verification** - Hash checking for download safety
-- **File Integrity Verification** - Hash checking for download safety
 
 
 ## 🚀 Quick Start
