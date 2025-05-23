@@ -97,7 +97,7 @@ https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4
 - [x] Progress tracking and display
 - [x] Error handling basics
 
-### Sprint 2: Enhanced Download Engine 🔄
+### Sprint 2: Enhanced Download Engine ✅
 - [x] HTTP range request detection
 - [x] Server capability checking
 - [x] Improved progress calculations
