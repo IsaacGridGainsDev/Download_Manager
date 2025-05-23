@@ -6,7 +6,7 @@ A modern, multi-threaded file download manager built with Python and CustomTkint
 
 ## ✨ Features
 
-### 🎯 Current Features (Sprint 1)
+### 🎯 Current Features (Sprint 1 & 2)
 - **Clean, Modern UI** - Built with CustomTkinter featuring wood brown and sea blue theme
 - **Single-threaded Downloads** - Reliable file downloading with progress tracking
 - **Real-time Progress** - Live download speed, ETA, and completion percentage
