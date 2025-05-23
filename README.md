@@ -98,10 +98,10 @@ https://sample-videos.com/zip/10/mp4/SampleVideo_1280x720_1mb.mp4
 - [x] Error handling basics
 
 ### Sprint 2: Enhanced Download Engine 🔄
-- [ ] HTTP range request detection
-- [ ] Server capability checking
-- [ ] Improved progress calculations
-- [ ] Better error recovery
+- [x] HTTP range request detection
+- [x] Server capability checking
+- [x] Improved progress calculations
+- [x] Better error recovery
 
 ### Sprint 3: Multi-threaded Segmentation 🔄
 - [ ] File segmentation algorithm
